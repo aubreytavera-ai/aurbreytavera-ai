@@ -12,8 +12,8 @@ I am currently taking the **BS Information Technology** program.
 
 ---
 
-## 📜 Certifications
-- [SQL and Relational Databases 101](https://courses.cognitiveclass.ai/certificates/544f463e18d64168b6a0b508bcc02e50)
+# 📜 Certification
+  <a href="https://courses.cognitiveclass.ai/certificates/544f463e18d64168b6a0b508bcc02e50"> </a>
 
 ---
 
