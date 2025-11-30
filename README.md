@@ -13,7 +13,13 @@ I am currently taking the **BS Information Technology** program.
 ---
 
 # 📜 Certification
-  <a href="https://courses.cognitiveclass.ai/certificates/544f463e18d64168b6a0b508bcc02e50"> </a>
+ <h3>Certifications</h3>
+      <ul>
+        <li><a href="https://courses.cognitiveclass.ai/certificates/544f463e18d64168b6a0b508bcc02e50">SQL and Relational Databases 101</a></li>
+      </ul>
+    <p></p>
+        <hr>
+  
 
 ---
 
