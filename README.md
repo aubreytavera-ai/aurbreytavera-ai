@@ -1,5 +1,5 @@
 <h1> Hello! I'm Aubrey Tavera </h1>
-    <p> I'm still learning and praticing at coding. I'm currently taking the BS Information Technology Program.
+    <p> I'm still learning and practicing at coding. I'm currently taking the BS Information Technology Program.
     <p></p>
         <hr>
     <h3>Education</h3>
